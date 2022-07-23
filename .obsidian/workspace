@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "783b10fe215412ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a899d08ff376a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Waffles.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "680ee8323f67afc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ad5fd22e8f5d29b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce950115809f06c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8621299f9dbc714f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b333ab2c5259e5f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e34ed998ef47448",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ee7bdc8545510a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb10aa90d0ef931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Waffles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbffd46c46d72328",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Waffles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a29cbce6418fd6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c8d4a6f9939f834",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Waffles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44a899d08ff376a7",
+  "lastOpenFiles": []
+}
