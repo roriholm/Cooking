@@ -1,0 +1,7 @@
+-   3 Tbsp Soy Sauce 
+-   1 Tsp Fish Sauce
+-   2 Tbsp Hoisin sauce
+-   1 Tsp Sesame oil
+-   1 Tsp garlic powder
+-   1 Tbsp Flatiron Pepper - Asian Reds
+-   1 Tsp Sesame seeds
