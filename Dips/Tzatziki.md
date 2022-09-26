@@ -10,6 +10,3 @@
 Squeeze excess moisture out of cucumber
 Mix, let rest 5 m
 
-
-$\sum_{i=1}^n i$
-

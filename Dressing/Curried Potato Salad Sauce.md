@@ -1,0 +1,8 @@
+-   1/2 cup mayonnaise
+-   1/4 cup full fat greek yoghurt
+-   4 tsp curry powder – or Indian restaurant mix powder.
+-   1/2 tsp [[Chaat Masala]]
+-   1/4 tsp mustard powder
+-   1/4 tsp black pepper
+-   1 tsp tamarind paste – paste is not the same as concentrate
+-   1/2 tsp kosher salt

@@ -1,0 +1,8 @@
+-   4 Tbsp coriander powder
+-   2 Tbsp cumin powder
+-   4 Tbsp turmeric powder
+-   3 Tbsp paprika
+-   2 Tbsp mild curry powder
+-   1-2 tsp kashmiri chili powder – I like a little extra zing
+-   1 tsp garam masala
+-   1 tsp butcher’s grind black pepper
